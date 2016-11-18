@@ -8,8 +8,8 @@
 
 #include <iostream>
 
-const int arraySize = 5;          // Global const, integer variable, arraySize
-                                  // Initialized to 5 -- arbitrary
+const int arraySize = 5;          	// Global const, integer variable, arraySize
+                                  	// Initialized to 5 -- arbitrary
 
 int main()
 {
