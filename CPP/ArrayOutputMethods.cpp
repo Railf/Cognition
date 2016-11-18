@@ -28,6 +28,8 @@ int main()
 	std::cout << *(A+3)  << "\n";   // Display dereferenced (A+3), 7; newline
 	
 	std::cout << *(ar+3) << "\n";   // Display dereferenced (ar+3), 7; newline
+	
+	std::cout << A[3]    << "\n";   // Display A[3], 7; newline
 }
 
 /* Outputs:
