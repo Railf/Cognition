@@ -23,7 +23,7 @@ int main()
 	                                // ================================================================
 	                                // Different methods to output the value stored at arr[3].
 	                            
-	std::cout << ar[3]   << "\n";   // Display arr[3], 7; newline
+	std::cout << ar[3]   << "\n";   // Display ar[3], 7; newline
 	
 	std::cout << *(A+3)  << "\n";   // Display dereferenced (A+3), 7; newline
 	
