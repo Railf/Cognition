@@ -1,5 +1,5 @@
 /*  
-    Array Output Methods
+    Array Manipulation
         Array Arithmetic
         
     Ralph McCracken, III
