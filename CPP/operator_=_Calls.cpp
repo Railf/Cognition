@@ -1,26 +1,26 @@
 /*  
-    operator = Calls
-        Right-To-Left, Binary Operator
+	operator = Calls
+        	Right-To-Left, Binary Operator
         
-    Ralph McCracken, III
-    December 03, 2016
+    	Ralph McCracken, III
+    	December 03, 2016
 */
 
 #include <iostream>
 
 int main() {
-    int a = 1;
-    int b = 2;
-    int c = 4;
+	int a = 1;
+    	int b = 2;
+    	int c = 4;
     
-    std::cout << "a: " << a << '\n';
+    	std::cout << "a: " << a << '\n';
 	std::cout << "b: " << b << '\n';
 	std::cout << "c: " << c << '\n';
 	std::cout << '\n';
     
-    a = b = c;
+    	a = b = c;
     
-    std::cout << "a: " << a << '\n';
+    	std::cout << "a: " << a << '\n';
 	std::cout << "b: " << b << '\n';
 	std::cout << "c: " << c << '\n';
 	std::cout << '\n';
@@ -34,16 +34,16 @@ int main() {
 }
 
 /*  
-    Output:
-            a: 1 
-            b: 2 
-            c: 4 
+    	Output:
+            	a: 1 
+           	b: 2 
+		c: 4 
 
-            a: 4 
-            b: 4 
-            c: 4 
+            	a: 4 
+            	b: 4 
+            	c: 4 
 
-            a: 4 
-            b: 4 
-            c: 4
+            	a: 4 
+            	b: 4 
+            	c: 4
 */
