@@ -1,6 +1,6 @@
 /*  
-    	Array Manipulation
-        	Array Arithmetic
+    	Pointer Manipulation
+        	Pointer Arithmetic
         
     	Ralph McCracken, III
     	November 18, 2016
