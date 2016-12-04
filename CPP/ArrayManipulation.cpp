@@ -1,9 +1,9 @@
 /*  
-    Array Manipulation
-        Array Arithmetic
+    	Array Manipulation
+        	Array Arithmetic
         
-    Ralph McCracken, III
-    November 18, 2016
+    	Ralph McCracken, III
+    	November 18, 2016
 */
 
 #include <iostream>
@@ -32,9 +32,10 @@ int main()
 	std::cout << A[3]    << "\n";   // Display A[3], 7; newline
 }
 
-/* Outputs:
-            7
-            7
-            7
-	    7
+/* 
+	Outputs:
+            	7
+            	7
+            	7
+	    	7
 */
