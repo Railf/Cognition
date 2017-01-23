@@ -5,7 +5,7 @@
     
     Notable points:
       Shape Generation
-      Shape Collaberation
+      Shape Collaboration
       Shape Movement
       Shape Relative Movement
       Mouse Click Recognition
